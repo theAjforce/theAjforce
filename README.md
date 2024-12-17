@@ -5,7 +5,7 @@ Hello! I'm AJ, a data scientist with a passion for uncovering insights and solvi
 I am a highly motivated learner with a solid foundation in data analysis, machine learning, and statistical modeling. I am constantly learning and exploring new techniques to extract meaningful information from data.
 
 ### Skills
-- Programming Languages - Python (pandas, NumPy, scikit-learn, TensorFlow), SQL
+- Programming Languages: Python (pandas, NumPy, scikit-learn, TensorFlow), SQL
 
 - Data Analysis: Exploratory Data Analysis, Feature Engineering
 
